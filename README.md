@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend engineering.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Frontend projects.
-- 📫 How to reach me on twitter @konstellationss . on ig @demiandhercreationss. & on gmail demithedev@gmail.com!
+- 📫 How to reach me on twitter @konstellationss & on gmail demithedev@gmail.com!
 
 
 <!---
